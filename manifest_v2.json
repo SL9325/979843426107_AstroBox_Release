@@ -21,12 +21,23 @@
   "downloads": {
     "xmb10p": {
       "version": "2.1.0",
-      "file_name": "downloads/亮点＋.bin",
-      "versionCode": 210,
+      "file_name": "downloads/亮点＋-xmb10p.bin",
+      "versionCode": 131328,
       "updatelogs": [
         {
           "version": "2.1.0",
           "content": "修改息屏样式，添加过渡动画"
+        }
+      ]
+    },
+    "xmb9p": {
+      "version": "1.0.0",
+      "file_name": "downloads/亮点＋-xmb9p.bin",
+      "versionCode": 65536,
+      "updatelogs": [
+        {
+          "version": "2.1.0",
+          "content": "支持9P"
         }
       ]
     }
